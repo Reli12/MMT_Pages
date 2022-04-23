@@ -17,7 +17,25 @@
 .displayFlex{
     display: flex;
     align-items: center;
+    
 }
+.ColorSection{
+    background-color: #EFF1F3;
+    color: #5D737E;
+}
+
 .AddWithSpace{
-    padding-top: 10px;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.FooterSection{
+    margin-top: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.FooterLink{
+    text-decoration: none;
+    
 }
