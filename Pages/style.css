@@ -9,3 +9,15 @@
 .Jumbotron{
     height: 350px;
 }
+
+.Images{
+    height: 50vh;
+    width: 400px;
+}
+.displayFlex{
+    display: flex;
+    align-items: center;
+}
+.AddWithSpace{
+    padding-top: 10px;
+}
