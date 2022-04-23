@@ -1,3 +1,4 @@
+//Flag je potreban za iniciranje upscala odnosno downscala za pojedin image
 let flag=1;
 
 function ImgBigger(ImgName){
